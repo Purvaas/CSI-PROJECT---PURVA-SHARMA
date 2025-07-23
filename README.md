@@ -28,7 +28,7 @@ Technologies Used
 
 
 Screenshots and Resources
-All configuration screenshots and PDF documentation are included in this repository.
+All configuration screenshots and PDF documentation and Word versions of the final report are included in this repository.
 
  Output Summary
 - Successful implementation of MFA for Azure accounts
